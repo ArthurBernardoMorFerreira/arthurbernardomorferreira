@@ -6,6 +6,8 @@
 
 #
 
+<h2> A little about myself </h2>
+
 <div>
   
   <h2> 🛠️ Teck Stark </h2>
