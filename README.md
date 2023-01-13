@@ -2,17 +2,27 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=arthurbernardomorferreira&color=yellow" alt="Profile views"/>
+<div>
 
-#
+  <img src="https://komarev.com/ghpvc/?username=arthurbernardomorferreira&color=yellow" alt="Profile views" align="right" />
 
-<h2> A little about myself </h2>
+  <h2> <img src="https://user-images.githubusercontent.com/94569572/212257400-a1de5bbf-f9ba-4260-bbed-4791f3c27682.png" width="40px"> More about me </h2>
+  
+  <br>
+  
+  <li></li>
+  <li></li>
+  <li></li>
+  
+  <br>
+
+</div>
 
 <div>
   
   <h2> 🛠️ Teck Stark </h2>
-  
-  <br>
+ 
+<br>
    
   <img height="32em" width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="32em" width=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -26,9 +36,13 @@
 
 ##
 
+<br>
+
 <div>
   
-  <h1> Contact </h1>
+  <h1> Social Media </h1>
+  
+  <br>
 
   <a href="https://www.linkedin.com/in/arthur-bernardo-moreira-ferreira-36b1201a8/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
