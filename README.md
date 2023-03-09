@@ -10,9 +10,9 @@
   
   <br>
   
-  <li> Studying Systems Development Technician </li>
-  <li> ReactJS and TypeScript </li>
-  <li> Frontend </li>
+  <li> Studying Systems Development Technician; </li>
+  <li> ReactJS and TypeScript; </li>
+  <li> Always Learning! </li>
   
   <br>
 
