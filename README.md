@@ -1,4 +1,4 @@
-<h1> Oi! Eu sou o Arthur Bernardo! </h1>
+<h1> Oi! Eu sou Arthur Bernardo! </h1>
 
 <br>
 
