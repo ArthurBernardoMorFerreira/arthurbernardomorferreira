@@ -6,7 +6,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=arthurbernardomorferreira&color=yellow" alt="Profile views" align="right" />
 
-  <h2> <img src="https://user-images.githubusercontent.com/94569572/212257400-a1de5bbf-f9ba-4260-bbed-4791f3c27682.png" width="40px"> Mais sobre mim: </h2>
+  <h2> <img src="https://user-images.githubusercontent.com/94569572/212257400-a1de5bbf-f9ba-4260-bbed-4791f3c27682.png" width="40px"> Sobre mim: </h2>
   
   <br>
   
