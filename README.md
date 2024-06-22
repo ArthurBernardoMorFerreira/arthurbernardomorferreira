@@ -12,6 +12,7 @@
   
   <li> ReactJS and TypeScript; </li>
   <li> Estudando sempre </li>
+  <li> Desejo e interesse por saber como funciona a tecnologia das coisas </li>
   
   <br>
 
